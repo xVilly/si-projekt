@@ -27,3 +27,9 @@ python adversarial.py
 ```
 ### Przebieg ataku (nieprawidłowy output)
 ![Przykład ataku FGSM](./assets/fgsm-example.bmp)
+
+### Wynik po wprowadzeniu przeciwdziałania (trenowanie na zbiorze z FGSM)
+![Rezultat trenowania po wprowadzeniu przeciwdziałania](./asssets/result-protect.png)
+
+### Przeciwdziałanie ataku
+![Przeciwdziałanie ataku](./assets/fgsm-protect.png)
